@@ -27,4 +27,7 @@
       }
     }
   }
+	.prose {
+		text-indent: 10px;
+	}
 }
